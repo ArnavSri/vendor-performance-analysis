@@ -18,6 +18,9 @@ SQL (SQLite, CTEs), Python (Pandas, SQLAlchemy, SciPy), Jupyter Notebook, Chart.
 - Vendors with low sales have statistically higher profit margins (Welch's t-test)
 - Top 10 vendors account for 65.7% of total purchase spend
 
+## Dashboard
+![Dashboard](dashboard.png)
+
 ## Data
 Source: Dataset by Ayushi on Topmate - [Vendor Performance Analysis Data](https://topmate.io/ayushi_mishra/1557424)
 
