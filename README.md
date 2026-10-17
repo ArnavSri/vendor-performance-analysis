@@ -19,7 +19,7 @@ SQL (SQLite, CTEs), Python (Pandas, SQLAlchemy, SciPy), Jupyter Notebook, Chart.
 - Top 10 vendors account for 65.7% of total purchase spend
 
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Data
 Source: Dataset by Ayushi on Topmate - [Vendor Performance Analysis Data](https://topmate.io/ayushi_mishra/1557424)
